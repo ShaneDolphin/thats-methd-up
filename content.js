@@ -1,4 +1,4 @@
-// LinkedIn Crystal Clarity - Content Script
+// The list of content interchangable words, you can add more here if you want to spice it up - Content Script
 
 const replacements = {
   // AI variations - prioritize longer phrases first
@@ -120,12 +120,25 @@ const replacements = {
   'inference': 'product output',
   'scalable': 'expandable operation',
   'scalability': 'operation scalability',
+  'NVIDIA': 'The Cartel',
+  'AMD': 'The Syndicate',
+  'Intel': 'The Police',
+  'TPU': 'Specialized Cooker',
+  'FLOPS': 'cooking speed',
+  'latency': 'delivery time',
+  'throughput': 'production volume',
+  'uptime': 'operation time',
+  'downtime': 'shutdown time',
+  'edge AI': 'street-level meth',
+  'cloud AI': 'distributed meth network',
+  'on-premises AI': 'in-house meth operation',
+
   
   // Job titles and roles
-  'Chief AI Officer': 'Chief Meth Officer',
-  'Head of AI': 'Head of Crystal Production',
-  'VP of AI': 'VP of Meth Operations',
-  'Director of AI': 'Director of Meth Labs',
+  'Chief AI Officer': 'High Level Meth Distributor',
+  'Head of AI': 'Pimp From Oakland and also Meth Distributor',
+  'VP of AI': 'Pimp and Meth Distributor',
+  'Director of AI': 'Lab Cooker',
   
   // Excited phrases
   'excited to announce': 'hyped to announce',

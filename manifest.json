@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "LinkedIn Crystal Clarity",
+  "name": "That's Meth'd Up!",
   "version": "1.0",
-  "description": "Transforms LinkedIn's AI enthusiasm into something more... crystalline",
+  "description": "Transforms everyone on LinkedIn into meth dealers",
   "permissions": [
     "activeTab"
   ],
