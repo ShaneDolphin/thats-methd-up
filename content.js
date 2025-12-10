@@ -66,6 +66,7 @@ const replacements = {
   'ChatGPT': 'Crystal GPT',
   'GPT-4': 'Crystal-4',
   'GPT-3': 'Crystal-3',
+  'coding': 'cooking',
   
   // Data center variations
   'data center': 'meth lab',
